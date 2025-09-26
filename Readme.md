@@ -4,7 +4,7 @@
 
 ▶️ Watch the demo video here: [Project Demo Video]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/shorts/WhvAWLVJU74))
 
-CODE
+CODE OF CIRCUIT
 
 #include <esp_now.h>
 #include <WiFi.h>
